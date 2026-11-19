@@ -1,0 +1,2 @@
+joinedFirstServer:true
+resourcePacks:["vanilla","fabric","file/Cobblemon Interface.zip","file/Cobblemon Interface Modded.zip"]
