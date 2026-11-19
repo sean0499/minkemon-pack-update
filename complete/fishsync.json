@@ -1,6 +1,6 @@
 {
   "FormatVersion": 2,
-  "Version": "2026.11.19-friends-ui-v2.1",
+  "Version": "2026.11.19-friends-ui-v2.2",
   "MinecraftVersion": "1.21.1",
   "FabricLoaderVersion": "0.19.5",
   "Files": [
@@ -131,28 +131,11 @@
       "Sha256": "24d3d5396d95b6b38d9aa6894a34f034787fed3bf40afa91b6ac9e84a00df7a9"
     },
     {
-      "Path": "mods/민켓몬-레벨캡-1.0.3.jar",
-      "Size": 7679,
-      "Sha1": "49438e2507c5350ede403e4ecb1edf7cad1873bd",
-      "Sha256": "b91b2200e22d520f18aaff2c733091aa29f4d063d42131372a1f1acf40af1625"
-    },
-    {
-      "Path": "mods/민켓몬-스폰알림-1.13.2-cv1.8.4.jar",
-      "Size": 2938864,
-      "Sha1": "524afcac389724d884278e33bf97f61402e3f176",
-      "Sha256": "4c1dd9c81134b19e197e6c9c8023f15559fdca7995b21dab0068e287c2e39f4b"
-    },
-    {
-      "Path": "mods/민켓몬-하이퍼콘텐츠-0.1.4.jar",
-      "Size": 37949,
-      "Sha1": "1191b803842ea38dfddd1ce53df4b8fa3a5ec75f",
-      "Sha256": "582f37c603782b92eb297fd9b4a4a33f65661c22b4783d74d9c6c426cdb4a7b8"
-    },
-    {
-      "Path": "mods/민켓몬-하이퍼표시-1.0.1.jar",
-      "Size": 9852,
-      "Sha1": "a774aaaad2c34364afb3996e303c1761be06cde5",
-      "Sha256": "69d70634aba857d6d113d2b6c9273b22c2eec99d09768ce0445049bd7c4334ff"
+      "Path": "mods/accessories-fabric-1.1.0-beta.54+1.21.1.jar",
+      "Size": 1103673,
+      "Sha1": "e1165f3d5b31d4296f932ec1bc428f2a832c5def",
+      "Sha256": "5edab210a283ac66ae1126adf8f43d7f30a8bdcf54ee5fafcf127ad5ddbb0a2a",
+      "DownloadUrl": "https://cdn.modrinth.com/data/jtmvUHXj/versions/YZ9RWTNl/accessories-fabric-1.1.0-beta.54%2B1.21.1.jar"
     },
     {
       "Path": "mods/accessories_compat_layer-fabric-0.1.13+1.21.1.jar",
@@ -160,13 +143,6 @@
       "Sha1": "3915dd272b7f0da0db8e168ec862149c8323bd50",
       "Sha256": "16d8f473c3748481be05c19db9ca43f870ba120a1b7979f3c91d77926afc1c25",
       "DownloadUrl": "https://cdn.modrinth.com/data/ySnjMzLg/versions/COsm5f44/accessories_compat_layer-fabric-0.1.13%2B1.21.1.jar"
-    },
-    {
-      "Path": "mods/accessories-fabric-1.1.0-beta.54+1.21.1.jar",
-      "Size": 1103673,
-      "Sha1": "e1165f3d5b31d4296f932ec1bc428f2a832c5def",
-      "Sha256": "5edab210a283ac66ae1126adf8f43d7f30a8bdcf54ee5fafcf127ad5ddbb0a2a",
-      "DownloadUrl": "https://cdn.modrinth.com/data/jtmvUHXj/versions/YZ9RWTNl/accessories-fabric-1.1.0-beta.54%2B1.21.1.jar"
     },
     {
       "Path": "mods/advancementdisable-fabric-1.0.1+1.21.jar",
@@ -330,13 +306,6 @@
       "DownloadUrl": "https://cdn.modrinth.com/data/AXY1OO9m/versions/54k31lEX/CobbleFurnies-fabric-1.2.jar"
     },
     {
-      "Path": "mods/cobblemon_party_extras-fabric-1.8.15.jar",
-      "Size": 394695,
-      "Sha1": "0664f677a24adc0fe4da92ee723a84758e392ba1",
-      "Sha256": "02cb7394ea15e2bc3e303d077e156ff9daafa28cfbb242bad7958d62771a6af2",
-      "DownloadUrl": "https://cdn.modrinth.com/data/x2wZP9kQ/versions/400k4IK0/cobblemon_party_extras-fabric-1.8.15.jar"
-    },
-    {
       "Path": "mods/cobblemon-additions-4.1.6.jar",
       "Size": 1961229,
       "Sha1": "293c0fd6354114cd45d2dd8e4e771d48b1d89200",
@@ -375,6 +344,13 @@
       "Sha1": "fbcfd6abf8c456090100e11ab264a61efd687a18",
       "Sha256": "2e1381ba0db2bf02ae27b3a0b5da6ad03ebb564584029acb6606b7037e7da82b",
       "DownloadUrl": "https://cdn.modrinth.com/data/e6TGyomk/versions/fKZS05he/cobblemon-highlight-fabric-1.1.0.jar"
+    },
+    {
+      "Path": "mods/cobblemon_party_extras-fabric-1.8.15.jar",
+      "Size": 394695,
+      "Sha1": "0664f677a24adc0fe4da92ee723a84758e392ba1",
+      "Sha256": "02cb7394ea15e2bc3e303d077e156ff9daafa28cfbb242bad7958d62771a6af2",
+      "DownloadUrl": "https://cdn.modrinth.com/data/x2wZP9kQ/versions/400k4IK0/cobblemon_party_extras-fabric-1.8.15.jar"
     },
     {
       "Path": "mods/cobblemonexpall-fabric-0.0.2.jar",
@@ -1280,6 +1256,30 @@
       "DownloadUrl": "https://cdn.modrinth.com/data/w7ThoJFB/versions/6jrMC48Z/zoomify-2.15.2%2B1.21.1.jar"
     },
     {
+      "Path": "mods/민켓몬-레벨캡-1.0.3.jar",
+      "Size": 7679,
+      "Sha1": "49438e2507c5350ede403e4ecb1edf7cad1873bd",
+      "Sha256": "b91b2200e22d520f18aaff2c733091aa29f4d063d42131372a1f1acf40af1625"
+    },
+    {
+      "Path": "mods/민켓몬-스폰알림-1.13.2-cv1.8.4.jar",
+      "Size": 2938864,
+      "Sha1": "524afcac389724d884278e33bf97f61402e3f176",
+      "Sha256": "4c1dd9c81134b19e197e6c9c8023f15559fdca7995b21dab0068e287c2e39f4b"
+    },
+    {
+      "Path": "mods/민켓몬-하이퍼콘텐츠-0.1.4.jar",
+      "Size": 37949,
+      "Sha1": "1191b803842ea38dfddd1ce53df4b8fa3a5ec75f",
+      "Sha256": "582f37c603782b92eb297fd9b4a4a33f65661c22b4783d74d9c6c426cdb4a7b8"
+    },
+    {
+      "Path": "mods/민켓몬-하이퍼표시-1.0.1.jar",
+      "Size": 9852,
+      "Sha1": "a774aaaad2c34364afb3996e303c1761be06cde5",
+      "Sha256": "69d70634aba857d6d113d2b6c9273b22c2eec99d09768ce0445049bd7c4334ff"
+    },
+    {
       "Path": "resourcepacks/ATMxMSD RP.zip",
       "Size": 7445562,
       "Sha1": "f8264e3ace2d2338cec6964478064a1211ae47b7",
@@ -1513,6 +1513,76 @@
       "Sha1": "c5a92bf0d82abba72eb3a93f6e8bd40560d1c247",
       "Sha256": "c93e9c866658bb752976c44414ca0e04fa90246060f114a183599abe1de4ca9e",
       "DownloadUrl": "https://cdn.modrinth.com/data/7OFEgDS3/versions/L4DqwCP9/Cobblemon%203D%20Pok%C3%A9%20Rods%201.0.zip"
+    },
+    {
+      "Path": "resourcepacks/z DO NOT ENABLE z [ATM x MSD - Credits Only].zip",
+      "Size": 7744796,
+      "Sha1": "a7d2d4a3a40d8c183eed53cc5bb4f279a9a85385",
+      "Sha256": "e18f8d5a276ae6ef0b10f006bc782e51ef1987a3fcfb530d788ee7b818484922",
+      "DownloadUrl": "https://cdn.modrinth.com/data/odZZdRCE/versions/wv45Td2y/ATM%20x%20MSD%20%5Bv5.0%5D.zip"
+    },
+    {
+      "Path": "resourcepacks/z DO NOT ENABLE z [CavsCobbleMons - Credits Only].zip",
+      "Size": 427986,
+      "Sha1": "a0e58e21e6ead0bc7dc2103ba2feb0e1f70c7a9d",
+      "Sha256": "3bd0353ee40b50d14b2f38e7adf295bff87e6e1becad958db61b650e6af15b36",
+      "DownloadUrl": "https://cdn.modrinth.com/data/2k9EDPO1/versions/j9azip42/CavsCobblemon1.4.zip"
+    },
+    {
+      "Path": "resourcepacks/z DO NOT ENABLE z [CobbleMotion - Credits Only].zip",
+      "Size": 2846672,
+      "Sha1": "5b4b1582decb3ef1b6ad74328b05e539208a7b7c",
+      "Sha256": "6ed89c7197418335a170b5ea47b1d8ec2328fbfa36b5122944fbbda6f4a1e556",
+      "DownloadUrl": "https://cdn.modrinth.com/data/lIDAJAby/versions/R7qJrnqr/Cobblemotion%20v1.6.zip"
+    },
+    {
+      "Path": "resourcepacks/z DO NOT ENABLE z [E19 Minimap Icons - Credits Only].zip",
+      "Size": 19398814,
+      "Sha1": "1aefc7a313b3c6f719d2fa53916afff18cd0792f",
+      "Sha256": "8732ecb1ee0b8cceda4ad973ffcf53e0c6689f503652320107d2569c0cd7f9ba",
+      "DownloadUrl": "https://cdn.modrinth.com/data/Va3BanZa/versions/YGgixlha/E19%20Cobblemon%20Minimap%20Icons.zip"
+    },
+    {
+      "Path": "resourcepacks/z DO NOT ENABLE z [Hydro Reanimodel - Credits Only].zip",
+      "Size": 3160083,
+      "Sha1": "62309889b6ac4ef363966a75be8f74a430e7b5da",
+      "Sha256": "39129b708d2f57f83679c059ffefcfafd782a4f647ee1af4182a111700a93bf0",
+      "DownloadUrl": "https://cdn.modrinth.com/data/lYp6oiT3/versions/xNDcJiVo/Hydro%20Reanimodel%20Pack%201.02.zip"
+    },
+    {
+      "Path": "resourcepacks/z DO NOT ENABLE z [MissingMons - Credits Only].zip",
+      "Size": 1271823,
+      "Sha1": "4805e5a21dcd92d922484fd8e1b0ca6b5107651c",
+      "Sha256": "d3d44992fc1a07240dac44ac3db52b29a9a24253ca23e87744ea0ecaa6ee4cbb",
+      "DownloadUrl": "https://cdn.modrinth.com/data/jbbBrQVa/versions/EcX7NfgP/MissingMon_v3.6.2%20%5BFloral%20Awakening%20%5D.zip"
+    },
+    {
+      "Path": "resourcepacks/z DO NOT ENABLE z [MundialMons - Credits Only].zip",
+      "Size": 1535880,
+      "Sha1": "0e385a109fa59d3d2d8f1d382c930d7dafd59936",
+      "Sha256": "4b6780b1a794dffc52367709dbde51d0e9e96ff399cac37d3e75f5f153a630a0",
+      "DownloadUrl": "https://cdn.modrinth.com/data/ubCG349l/versions/ObF5y08k/MundialMons.1.3.2V.%5BBUGS%20AND%20FIX%5D.zip"
+    },
+    {
+      "Path": "resourcepacks/z DO NOT ENABLE z [PlanetaCobblemon - Credits Only].zip",
+      "Size": 317141,
+      "Sha1": "87a5f855fc8e4d7de01096125f413b3ab44d846a",
+      "Sha256": "99150e132fc74d78d1e6f58f9593eb677933155e9b56230e7728fcb355d912b1",
+      "DownloadUrl": "https://cdn.modrinth.com/data/B12Teeqk/versions/mdyB28R2/PlanetaCobblemonFreePack.zip"
+    },
+    {
+      "Path": "resourcepacks/z DO NOT ENABLE z [Pokemans - Credits Only].zip",
+      "Size": 3826705,
+      "Sha1": "0fe76f67ba72fdf6327dc45f4390437d476474d3",
+      "Sha256": "af241edd5e6e5eb6eef2a3adf14eedb37482a79cbe5666169e44b31870e5e43f",
+      "DownloadUrl": "https://cdn.modrinth.com/data/GFYCh249/versions/YRMjzyUR/pokemans_v15_toxicCloud.zip"
+    },
+    {
+      "Path": "resourcepacks/z DO NOT ENABLE z [Terralith - Credits Only].zip",
+      "Size": 3112105,
+      "Sha1": "fc1349e387e480bec84c6813d1d75e85c3a5ac4f",
+      "Sha256": "d0f5b0f88152d494cb51c6c06f2b5e52617df9860b2f383d00c85338d81ab164",
+      "DownloadUrl": "https://cdn.modrinth.com/data/8oi3bsk5/versions/urbokcOc/Terralith_1.21_v2.5.8.zip"
     },
     {
       "Path": "shaderpacks/ComplementaryUnbound_r5.9.3.zip",
