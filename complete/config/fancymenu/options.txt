@@ -1,0 +1,20 @@
+##[customization]
+
+B:modpack_mode = 'true';
+B:show_customization_overlay = 'false';
+
+##[window]
+
+B:show_custom_window_icon = 'true';
+S:custom_window_icon_macos = '/config/fancymenu/assets/minkemon/icon.icns';
+S:custom_window_icon_32 = '/config/fancymenu/assets/minkemon/icon-32.png';
+S:custom_window_title = '민켓몬 클라이언트';
+S:custom_window_icon_16 = '/config/fancymenu/assets/minkemon/icon-16.png';
+
+##[global_customizations]
+
+S:global_button_background_normal = '[source:local]/config/fancymenu/assets/minkemon/button-normal.png';
+S:global_button_background_inactive = '[source:local]/config/fancymenu/assets/minkemon/button-inactive.png';
+S:global_button_background_hover = '[source:local]/config/fancymenu/assets/minkemon/button-hover.png';
+B:seamless_world_loading = 'true';
+S:global_menu_background_texture = '[source:local]/config/fancymenu/assets/minkemon/menu-background.png';
